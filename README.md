@@ -6,7 +6,7 @@
 
 CampusLink is a modern digital platform designed to simplify and transform the university application process for students, academic institutions, and administrators. The landing page serves as the official entry point — a place where users immediately understand the platform’s purpose, value, and features, while being guided to sign up, log in, or learn more.
 
-This README provides developers and collaborators with the conceptual, structural, and visual direction for designing and implementing the UniConnect landing page.
+This README provides developers and collaborators with the conceptual, structural, and visual direction for designing and implementing the CampusLink landing page.
 
 ## 🎯 Purpose
 
@@ -45,7 +45,7 @@ The university application process is often fragmented, outdated, and stressful 
 - 🔍 University Discovery Tool Search and compare universities and programs based on interests, budget, and goals.
 - 🔔 Notifications & Alerts Get reminders for deadlines, interviews, and admission status.
 - 🧩 Institution Tools Manage applications, verify documents, and analyze applicant data.
-- 🤝 Collaboration Portal Allows educational partners and developers to build upon UniConnect’s open APIs.
+- 🤝 Collaboration Portal Allows educational partners and developers to build upon CampusLink’s open APIs.
 
 ## 🧠 Landing Page Structure
 
